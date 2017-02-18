@@ -1,0 +1,11 @@
+1. right click - git pull - to get others
+
+Tortoise
+
+2. File and Folder / carrie
+
+3. git add filename
+
+4. Git commit
+
+5. Git push
